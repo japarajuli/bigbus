@@ -11,4 +11,4 @@ from sklearn.metrics import accuracy_score, f1_score,classification_report,preci
 from sklearn.linear_model import LogisticRegression
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.svm import SVC
-from xgboost import XGBClassifie
+
